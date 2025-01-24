@@ -17,4 +17,4 @@ npm start
 ## Recursos
 - [📄 Documentación](https://bot-whatsapp.netlify.app/)
 - [🚀 Roadmap](https://github.com/RafaelCaceres98)
-- [💻 GIT](www.linkedin.com/in/rafael-ricardo-caceres-daza-80b10b267)
+- [💻 GIT](https://www.linkedin.com/in/rafael-ricardo-caceres-daza-80b10b267/?midSig=1UOjBWcTt3AXA1&eid=i4lrkb-m5nypdpw-ul&midToken=AQEEZGtx1NvMLA&trkEmail=eml-security_two_step_verification_login_attempt-header-0-profile_glimmer-null-i4lrkb%7Em5nypdpw%7Eul-null-null&trk=eml-security_two_step_verification_login_attempt-header-0-profile_glimmer&originalSubdomain=co)
