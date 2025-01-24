@@ -1,0 +1,326 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573042437829@s.whatsapp.net',
+    fromMe: false,
+    id: 'D14F2E9990DBFAF54712F4403546B5BA',
+    participant: undefined
+  },
+  messageTimestamp: 1737734413,
+  pushName: 'Alan Santodomingo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '573042437829'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bb6d4dba-2a9c-4670-89cc-8148b8cfda24',
+  keyword: 'key_86e07655-bdb5-4194-b61d-403284915388',
+  answer: 'Este es el flujo welcome',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 100,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '7b3405e3f575c9930e6ce3515833891e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573042437829@s.whatsapp.net',
+    fromMe: false,
+    id: 'A4EE68C11B5AD65B3B33B565C96D6A9C',
+    participant: undefined
+  },
+  messageTimestamp: 1737734428,
+  pushName: 'Alan Santodomingo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Menu',
+  from: '573042437829'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_396c24e0-8a55-4b27-82c7-8ac0fb1effe4',
+  keyword: 'key_8a7d6e46-ac43-4469-b884-9acb17eea6a8',
+  answer: 'Elegi alguna de estas opciones:\r\n' +
+    '\r\n' +
+    'Opcion 1 - Menu\r\n' +
+    'Opcion 2 - Reservar mesa\r\n' +
+    'Opcion 3 - Hacer consultas\r\n' +
+    '\r\n' +
+    'Opcion 0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3aa550bca9d62a5d3321afe17bfced28'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573042437829@s.whatsapp.net',
+    fromMe: false,
+    id: '2BA12B96E6171B9951309A78416A8AA1',
+    participant: undefined
+  },
+  messageTimestamp: 1737734437,
+  pushName: 'Alan Santodomingo',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  status: 4,
+  body: '1',
+  from: '573042437829'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573042437829@s.whatsapp.net',
+    fromMe: false,
+    id: 'EEB32861882F3155D5C7C5DF5E813907',
+    participant: undefined
+  },
+  messageTimestamp: 1737734482,
+  pushName: 'Alan Santodomingo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Menu',
+  from: '573042437829'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_396c24e0-8a55-4b27-82c7-8ac0fb1effe4',
+  keyword: 'key_8a7d6e46-ac43-4469-b884-9acb17eea6a8',
+  answer: 'Elegi alguna de estas opciones:\r\n' +
+    '\r\n' +
+    'Opcion 1 - Menu\r\n' +
+    'Opcion 2 - Reservar mesa\r\n' +
+    'Opcion 3 - Hacer consultas\r\n' +
+    '\r\n' +
+    'Opcion 0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3aa550bca9d62a5d3321afe17bfced28'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573042437829@s.whatsapp.net',
+    fromMe: false,
+    id: 'F038151057452ADA9D1DF02AC34138AD',
+    participant: undefined
+  },
+  messageTimestamp: 1737734487,
+  pushName: 'Alan Santodomingo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  status: 4,
+  body: '2',
+  from: '573042437829'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573042437829@s.whatsapp.net',
+    fromMe: false,
+    id: 'F9A20E646438171BE38D882FEBBB7E31',
+    participant: undefined
+  },
+  messageTimestamp: 1737734499,
+  pushName: 'Alan Santodomingo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Menu',
+  from: '573042437829'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_396c24e0-8a55-4b27-82c7-8ac0fb1effe4',
+  keyword: 'key_8a7d6e46-ac43-4469-b884-9acb17eea6a8',
+  answer: 'Elegi alguna de estas opciones:\r\n' +
+    '\r\n' +
+    'Opcion 1 - Menu\r\n' +
+    'Opcion 2 - Reservar mesa\r\n' +
+    'Opcion 3 - Hacer consultas\r\n' +
+    '\r\n' +
+    'Opcion 0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3aa550bca9d62a5d3321afe17bfced28'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573042437829@s.whatsapp.net',
+    fromMe: false,
+    id: '8D08792FF223DBEEEBD80D1A6FFE4B78',
+    participant: undefined
+  },
+  messageTimestamp: 1737734503,
+  pushName: 'Alan Santodomingo',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '573042437829'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573042437829@s.whatsapp.net',
+    fromMe: false,
+    id: '92644D41F548F5101A467F1592EF7A63',
+    participant: undefined
+  },
+  messageTimestamp: 1737734520,
+  pushName: 'Alan Santodomingo',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '0',
+  from: '573042437829'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573042437829@s.whatsapp.net',
+    fromMe: false,
+    id: '872214708EA97216FF93D2797D793DE6',
+    participant: undefined
+  },
+  messageTimestamp: 1737734526,
+  pushName: 'Alan Santodomingo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Menu',
+  from: '573042437829'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_396c24e0-8a55-4b27-82c7-8ac0fb1effe4',
+  keyword: 'key_8a7d6e46-ac43-4469-b884-9acb17eea6a8',
+  answer: 'Elegi alguna de estas opciones:\r\n' +
+    '\r\n' +
+    'Opcion 1 - Menu\r\n' +
+    'Opcion 2 - Reservar mesa\r\n' +
+    'Opcion 3 - Hacer consultas\r\n' +
+    '\r\n' +
+    'Opcion 0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3aa550bca9d62a5d3321afe17bfced28'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573042437829@s.whatsapp.net',
+    fromMe: false,
+    id: '9FCDF3BB8F4B6F0855AF44C4A89E1133',
+    participant: undefined
+  },
+  messageTimestamp: 1737734531,
+  pushName: 'Alan Santodomingo',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '0',
+  from: '573042437829'
+}
